@@ -103,7 +103,6 @@ You'll be prompted for:
 **Recommendation:** Run in dry-run mode first to preview results!
 
 ---
-
 ## 🐳 Docker
 
 ### CPU mode
@@ -407,8 +406,8 @@ ALL GENRE PREDICTIONS (top 10):
   ...
 
 MOODS (passed threshold - 2 total):
-• energetic: 2.34%
-• dark: 1.87%
+  • energetic: 2.34%
+  • dark: 1.87%
 
 ## 🎓 Understanding the Models
 
