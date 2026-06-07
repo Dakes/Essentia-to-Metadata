@@ -107,6 +107,9 @@ You'll be prompted for:
 
 ### CPU mode
 
+If you plan to build the image multiple times, like for development, you can run `bash download_models.sh` 
+to pre-download the models. The docker build will pick them from there, instead of downloading them again.
+
 ```bash
 # Build the image
 docker compose build essentia-tagger
